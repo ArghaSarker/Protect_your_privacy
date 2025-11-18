@@ -3,7 +3,7 @@
 Final Report of Study Project "Protect your Privacy"
 
 
-#Abstract
+# Abstract
 
 This document summarizes the ideation and development process of the GDPR-compliant
 image anonymization platform, carried out as a study project collaboration between the
